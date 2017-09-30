@@ -1,0 +1,28 @@
+//start footer
+footer{
+	background-color: $color-footer;
+	padding-bottom: 15px;
+	color: $color-white;
+	& ul{
+		display: flex;
+		justify-content: center;
+		padding-left: 0px;
+		padding-top: 10px;
+		margin-bottom: 15px;
+	}
+
+	& li{
+		list-style: none;
+		padding: 10px;
+
+	}
+	& a {
+		color: $color-white;
+	}
+	& p{
+		text-align: center;
+		
+	}
+
+}
+//end footer

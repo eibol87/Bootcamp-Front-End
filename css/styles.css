@@ -1,0 +1,63 @@
+.color-green {
+  color: #1ca998; }
+
+.navbar-default {
+  margin-bottom: 0px; }
+
+.showcase {
+  background-image: url("../material/img/site_showcase_bg.jpg");
+  /*overflow: hidden;*/
+  color: white;
+  padding: 50px 50px 30px 50px;
+  flex-direction: column;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center; }
+  .showcase h1 {
+    padding-bottom: 20px; }
+  .showcase h2 {
+    color: white; }
+  .showcase span {
+    color: #1ca998; }
+  .showcase img {
+    padding-bottom: 30px;
+    width: 217px; }
+
+.product-list {
+  margin-top: 50px; }
+  .product-list .thumbnail {
+    border: 0px; }
+  .product-list img {
+    border: 1px solid #cacaca; }
+
+.footer-list {
+  color: white;
+  background-color: #1ca998;
+  padding-top: 20px; }
+  .footer-list li {
+    line-height: 30px;
+    font-weight: bold;
+    list-style: none; }
+  .footer-list img {
+    padding-bottom: 25px; }
+
+footer {
+  background-color: #333333;
+  padding-bottom: 15px;
+  color: white; }
+  footer ul {
+    display: flex;
+    justify-content: center;
+    padding-left: 0px;
+    padding-top: 10px;
+    margin-bottom: 15px; }
+  footer li {
+    list-style: none;
+    padding: 10px; }
+  footer a {
+    color: white; }
+  footer p {
+    text-align: center; }
+
+/*# sourceMappingURL=styles.css.map */
