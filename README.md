@@ -1,11 +1,11 @@
-## Challenge Skylab bootcamp
+# Challenge Skylab bootcamp
 
-### Web layaout with bootstrap
+## Web layaout with bootstrap
 
 Layaout for **450px**, **580px**, **900px** and **1400px**
 
 
-### Project Feactures
+## Project Feactures
 
 - Html
     - Use all necessary tags
@@ -20,7 +20,7 @@ Layaout for **450px**, **580px**, **900px** and **1400px**
     - Sass File Importing
 
 
-### Skeleton
+## Skeleton
 
 - css
     - styles.css
@@ -38,6 +38,7 @@ Layaout for **450px**, **580px**, **900px** and **1400px**
     - styles.css.map
     - styles.scss
 
-### Home Page in 1400px
+
+## Home Page in 1400px
 
 ![img/home-1400](img/home-1400.png)
