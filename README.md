@@ -2,7 +2,7 @@
 
 ### Web layaout with bootstrap
 
-Layaout for **450px**, **580px**, **900px** y **1400px**
+Layaout for **450px**, **580px**, **900px** and **1400px**
 
 
 ### Project Feactures
