@@ -38,3 +38,6 @@ Layaout for **450px**, **580px**, **900px** and **1400px**
     - styles.css.map
     - styles.scss
 
+### Home Page 
+
+![img/home-1400](img/home-1400.png)
