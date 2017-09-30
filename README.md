@@ -1,23 +1,35 @@
 ## Challenge Skylab bootcamp
 
-### Maquetación web con bootstrap
+### Web layaout with bootstrap
 
-Maquetación responsive para las resoluciones de **450px**, **580px**, **900px** y **1400px**
+Layaout for **450px**, **580px**, **900px** y **1400px**
 
-### Tecnologias
 
-HTML, CSS, SASS & BOOTSTRAP.
+### Project Feactures
 
-### Estructura
+- Html
+    - Use all necessary tags
+- Css
+	- Use all necessary properties
+    - Responsive Media Queries
+- Bootstrap 
+    - Grid System
+    - Use components
+- Sass 
+    - Sass Variables
+    - Sass File Importing
+
+
+### Skeleton
 
 - css
     - styles.css
     - styles.css.map
 - img
-    - Imagenes con el diseño de como hay que maquetar en las diferentes resoluciones
+    - Pictures with the design in different resolutions
 - material
 	- img
-	    - Material gráfico necesario para maquetar
+	    - Graphic material
 - scss
     - common.scss
     - footer.scss
