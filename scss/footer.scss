@@ -36,6 +36,12 @@ footer{
 		}
 		
 	}
+	  @media (min-width: 994px){
+		& .row{
+			display: flex;
+			align-items: center;
+		}
+	  }
 	
 }
 //end footer

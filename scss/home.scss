@@ -3,6 +3,7 @@
     background-color: $color-black;
     /*overflow: hidden;*/
     color: $color-white;
+    overflow: hidden;
     padding: 50px 0px 30px 0px;
     font-size: 20px;
     flex-direction: column;
@@ -19,7 +20,7 @@
     & span {
         color: $color-green;
     }
-    & img {
+    & .images-storage {
     	padding-bottom: 30px;
     	width: 217px;
     }
@@ -52,7 +53,27 @@
             
         }
     }
-
+    @media (min-width: 1000px){
+        & h1 {
+            font-size: 65px;
+        }
+        & .showcase-left{
+           
+        }
+        & h1{
+         padding-bottom: 30px;
+        }
+        & .image-showcase-right{
+        margin-bottom: -65px;
+        }
+        & .row{
+            display: flex;
+            align-items: center;
+        }
+        & p{
+            font-size: 20px;
+        }
+    }
 }
 //end showcase
 
