@@ -80,7 +80,8 @@
 
 .title {
   color: white;
-  background-color: #1ca998; }
+  background-color: #1ca998;
+  padding: 10px; }
   .title h1 {
     margin-top: 10px; }
 

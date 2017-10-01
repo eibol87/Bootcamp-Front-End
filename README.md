@@ -31,12 +31,17 @@ Layaout for **450px**, **580px**, **900px** and **1400px**
 	- img
 	    - Graphic material
 - scss
+    - about.scss
+    - contact.scss
     - common.scss
     - footer.scss
     - header.scss
     - home.scss
     - styles.css.map
     - styles.scss
+- about.html
+- index.html
+- contact.html
 
 
 ## Home Page in 1400px
