@@ -9,6 +9,12 @@ footer{
 		padding-left: 0px;
 		padding-top: 10px;
 		margin-bottom: 15px;
+		@media (min-width: 580px) {
+			&{
+				justify-content: left;
+			}
+
+		}
 	}
 
 	& li{
@@ -21,8 +27,15 @@ footer{
 	}
 	& p{
 		text-align: center;
+		@media (min-width: 580px) {
+			&{
+				text-align: right;
+				
+			}
+
+		}
 		
 	}
-
+	
 }
 //end footer
