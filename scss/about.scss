@@ -1,0 +1,13 @@
+.title{
+    color: $color-white;
+    background-color: $color-green;
+    & h1 {
+    margin-top: 10px; 
+   }
+}
+.colapse-section{
+    padding-top: 25px;
+    & p {
+        padding-bottom: 20px;
+    }
+}

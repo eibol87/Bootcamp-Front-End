@@ -78,6 +78,17 @@
   .footer-list img {
     padding-bottom: 25px; }
 
+.title {
+  color: white;
+  background-color: #1ca998; }
+  .title h1 {
+    margin-top: 10px; }
+
+.colapse-section {
+  padding-top: 25px; }
+  .colapse-section p {
+    padding-bottom: 20px; }
+
 footer {
   background-color: #333333;
   padding-bottom: 15px;
